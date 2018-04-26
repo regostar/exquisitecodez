@@ -1,3 +1,6 @@
+/*integer to string without using inbuilt */
+
+
 #include <iostream>
 using namespace std;
 
